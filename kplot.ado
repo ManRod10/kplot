@@ -258,12 +258,9 @@ if ("`tipo'" == "rd") {
 	
 	gr combine a b c d , cols(4) xsize(10) ///
 	 ycommon graphregion(fcolor(white)) xcommon
-	*drop *
+	drop *
 	}
 	}
 	end	
 
-	kplot 500 , tipo(omitida)
-	kplot 200 0.05 , tipo(psm)
-	kplot 200 , tipo(dd)
-	kplot 200 0.5 , tipo(rd)
+
