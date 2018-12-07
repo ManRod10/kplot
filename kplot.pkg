@@ -1,0 +1,18 @@
+d Modulo 
+d
+d  para visualizar los diseños mas comunes de evaluacion de impacto
+d  Se incluye PSM, DIF en DIF y regresion discontinua
+d
+d KW: Version control
+d KW: GitHub
+d KW: Git
+d KW: net
+d
+d Requires: Stata version 11 
+d
+d Distribution-Date: 20181207
+d
+d Author: M.A. Rodriguez, Universidad EAFIT
+d Support: email marodriguo@eafit.edu.co
+d
+F kplot.ado
