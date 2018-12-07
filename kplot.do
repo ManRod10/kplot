@@ -1,24 +1,3 @@
-/*
- Christian, 
- 
- El comando seria kplot, tiene dos argumentos y 4 optiones. 
- Los argumentos indican lo siguiente:
- 
- 1- Tamaño muestra.
- 2- Radio (en PSM) y tamaño de la ventana en RD
-
- Las optiones, estan asociadas al tipo de diseño o caso de estudio
- 
- 1 - Variable omitida -omitidas-
- 2 - Propensity Score Matching -psm-
- 3 - Diferencias en Diferencias -dd-
- 4 - Regresion Discontinua -rd-
- 
- Por el momento no sé, como subirlo a internet. pero por lo demas diria 
- que ya esta casi listo. Al final, dejo algunos ejemplos.
- 
- */
-
 clear all
 set more off
 
