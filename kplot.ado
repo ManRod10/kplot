@@ -1,5 +1,5 @@
 
-program define kplot 
+program kplot 
 
 syntax anything [,TIPO(string)]
 
@@ -261,6 +261,6 @@ if ("`tipo'" == "rd") {
 	drop *
 	}
 	}
-	end	
+end	
 
 
