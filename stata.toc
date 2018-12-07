@@ -1,0 +1,6 @@
+v 4.0.2
+d 'KPLOT': a general-purpose literate programming package for Stata that
+d produces dynamic analysis documents in various formats, such as {bf:pdf}, {bf:docx}, 
+d {bf:odt}, {bf:html}, {bf:epub}, {bf:markdown}, presentation slides in {bf:pdf} or 
+d {bf:html}, as well as dynamic Stata package help files {bf:sthlp}. 
+p kplot
