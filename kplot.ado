@@ -1,5 +1,3 @@
-clear all
-set more off
 
 program define kplot 
 
