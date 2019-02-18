@@ -1,7 +1,6 @@
 # kplot
 
-Esta herramienta se diseño para facilitar la compresion de las técnicas estándar de evaluación de impacto. 
-La aplicacion permite la visualizacion de 3 tecnias y del problema de variables omitidas, los tipos de visualizacion incluida son:
+Esta herramienta se diseño para el Curso de Evaluacion de Impacto de la Maestria en Economia de la Univerisdad EAFIT. con la intencion de facilitar la compresion de las técnicas estándar de evaluación de impacto. Este algoritmo permite una clara visualizacion del problema de variables omitidas, matching, la regresion disontinua y diferencias en diferencias.
 
 * **Variables Omitidas** *(omitida)*: Esta opcion permite elegir el tamaño de la muestra, el objetivo de esta opcion es mostrar como el
 signo de una correlacion puede ser producto de la omision de una variable, ademas muestra como la inclusion de dicha variable
