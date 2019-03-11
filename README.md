@@ -1,7 +1,7 @@
 
 # kplot
 
-Esta herramienta se diseño para el Curso de Evaluacion de Impacto de la Maestria en Economia de la Univerisdad EAFIT. con la intencion de facilitar la compresion de las técnicas estándar de evaluación de impacto. Este algoritmo permite una clara visualizacion del problema de variables omitidas, matching, la regresion disontinua y diferencias en diferencias.
+Esta herramienta se diseño para el Curso de **Evaluacion de Impacto** de la Maestria en Economia de la Univerisdad EAFIT. con la intencion de facilitar la compresion de las técnicas estándar de evaluación de impacto. Este algoritmo permite una clara visualizacion del problema de variables omitidas, matching, la regresion disontinua y diferencias en diferencias.
 
 * **Variables Omitidas** *(omitida)*: Esta opcion permite elegir el tamaño de la muestra, el objetivo de esta opcion es mostrar como el
 signo de una correlacion puede ser producto de la omision de una variable, ademas muestra como la inclusion de dicha variable
@@ -36,11 +36,6 @@ para elegir el tipo de visualizacion basta con incluir en la opcion tipo() el mo
 * **Visualizacion de variable omitida con 500 obs**    
 ```
 kplot 500 , tipo(omitida)
-
-<img src="https://imgur.com/a/gRbnHiN" alt="My cool logo"/>
-
-![img](https://imgur.com/a/gRbnHiN)
-
 ```
 * **Visualizacion de Matching con 200 obs y un caliper de 0.05**   
 ```
