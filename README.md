@@ -9,14 +9,14 @@ puede corregir el problema
 
 * **Matching** *(psm)*: 
 Esta opcion permite elegir el tamaño muestral y el capiler o el radio, a su vez muestra tres etapas del proceso, deteccion de
-observaciones comparables, restriccion al soporte comun y estimacion del efecto, como un promedio. Esta tecnica supone que se *la seleccion se da unicamente en variables observables*
+observaciones comparables, restriccion al soporte comun y estimacion del efecto, como un promedio. Esta tecnica supone que se ***la seleccion se da unicamente en variables observables***
 
 * **Regresion Discontinua** *(rd)*:
 Esta opcion permite visualizar el diseño, cuando se cuenta con una Rolling variable (o un puntaje de asignacion), entre los parametros 
-a elegir estan el tamaño muestral y el ancho de la ventana. Esta tecnica supone que *alrededor del corte las observaciones estan balanceadas*.
+a elegir estan el tamaño muestral y el ancho de la ventana. Esta tecnica supone que ***alrededor del corte las observaciones estan balanceadas***.
 
 * **Diferencias en Diferencias** *(dd)*:
-Esta opcion permite visualizar el diseño, cuando el tratamiento se realiza en algun periodo en el tiempo, lo que permite aplicar diferencias entre grupos y en el tiempo, lo que permite eliminar un numero importante de variables no observables, esta opcion solo requiere que se especifique el tamaño muestral. El uso de esta tecnica requiere del supuesto de *tendencias paralelas*
+Esta opcion permite visualizar el diseño, cuando el tratamiento se realiza en algun periodo en el tiempo, lo que permite aplicar diferencias entre grupos y en el tiempo, lo que permite eliminar un numero importante de variables no observables, esta opcion solo requiere que se especifique el tamaño muestral. El uso de esta tecnica requiere del supuesto de ***tendencias paralelas***
 
 ## Instalacion 
 
