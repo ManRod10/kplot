@@ -29,8 +29,8 @@ github install ManRod10/kplot
 
 ## Ejemplos
 
-la syntasis del comando es sencilla, algunas visualizaciones requieren uno o dos parametros, pero en general, en primer lugar va el tamaño muestran, mientras en la segunda posicion va el tamaño del caliper (radio) o el ancho de la ventana en el caso de RD.
-para elegir el tipo de visualizacion basta con incluir en la opcion tipo() el modelo deseado. com
+la sintaxis del comando es sencilla, algunas visualizaciones requieren uno o dos parametros, pero en general, en la primera posicion va el tamaño muestran, en la segunda posicion va el caliper (radio) en el caso de PSM o el ancho de la ventana en el caso de RD.
+para elegir el tipo de visualizacion basta con incluir en la opcion tipo() el modelo deseado. 
 
 
 * **Visualizacion de variable omitida con 500 obs**    
